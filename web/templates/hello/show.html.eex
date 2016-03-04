@@ -1,0 +1,3 @@
+<div class="jumbotron">
+	<h2>Hello <%= @messenger %>, welcome to Bike Trail Rater!</h2>
+</div>
